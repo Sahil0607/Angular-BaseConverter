@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BaseConverter"
+    }
+  },
+  "defaultProject": "BaseConverter",
+  "cli": {
+    "analytics": false
+  }
 }
